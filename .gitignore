@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.streamlit/secrets.toml
+model/gru_pm25_model.h5
+model/scaler.pkl
+.ipynb_checkpoints/
+.vscode/
+venv/

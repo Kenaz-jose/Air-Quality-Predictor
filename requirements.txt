@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+keras
+tensorboard
+ipykernel
+streamlit
+plotly
+python-dotenv
