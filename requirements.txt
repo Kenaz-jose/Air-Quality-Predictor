@@ -3,7 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-tensorflow
+tensorflow-cpu
 keras
 tensorboard
 ipykernel
